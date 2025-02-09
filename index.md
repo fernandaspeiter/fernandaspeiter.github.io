@@ -8,8 +8,6 @@ Além disso, sou engenheira ambiental, o que me deu bastante bastante experiênc
 Movida pela curiosidade, gosto de explorar como a ciência e a análise de dados podem ajudar a resolver desafios em diferentes áreas.
 Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da minha jornada de aprendizado.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 ## O que chama minha atenção?
 <dl>
 <dt>* Um bom storytelling com dados</dt>
