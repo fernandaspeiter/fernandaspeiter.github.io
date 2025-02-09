@@ -26,6 +26,6 @@ Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da 
 
 # Projetos
 
-[Link](https://github.com/fernandaspeiter/q95_caatinga_saofrancisco).
+[Disponibilidade hídrica no Bioma Caatinga: abordagem com Machine Learning](https://fernandaspeiter.github.io/q95_caatinga_saofrancisco/).
 
 
