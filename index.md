@@ -26,10 +26,6 @@ Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da 
 
 # Projetos
 
-### Iniciante
-* Em elaboração
-
-### Avançado
 [Link](https://github.com/fernandaspeiter/q95_caatinga_saofrancisco).
 
 
