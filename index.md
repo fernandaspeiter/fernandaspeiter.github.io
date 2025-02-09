@@ -20,7 +20,7 @@ Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da 
 
 ### Por onde andei: 
 > * MBA em Data Science and Analytics (USP/ESALQ - 2024)  
-> * MsC e PhD em Engenharia Hidráulica e Saneamento (USP/EESC - 2018)  
+> * MSc e PhD em Engenharia Hidráulica e Saneamento (USP/EESC - 2018)  
 > * Doutorado Sanduíche no _Department of Engineering Science_ (Universidade de Oxford/UK - 2017)  
 > * Graduação em Engenharia Ambiental e Saneamento (UFAL - 2012)
 
