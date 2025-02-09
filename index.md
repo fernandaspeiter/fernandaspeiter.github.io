@@ -10,11 +10,11 @@ Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da 
 
 ## O que chama minha atenção?
 <dl>
-<dt><b>* Um bom storytelling com dados<b></dt>
+<dt><b>* Um bom storytelling com dados</b></dt>
 <dd>Afinal, já dizia Cole Nussbaumer Knaflic em seu livro Storytelling with Data: "Há uma história em seus dados. Mas suas ferramentas não sabem qual é essa história".</dd>
-<dt><b>* A versatilidade do Machine Learning<b></dt>
+<dt><b>* A versatilidade do Machine Learning</b></dt>
 <dd>São inúmeras as possibilidades de uso das ferramentas, modelos e aplicações da aprendizagem de máquina.</dd>
-<dt><b>* Dados limpos, organizados e estruturados<b></dt>
+<dt><b>* Dados limpos, organizados e estruturados</b></dt>
 <dd>Ainda bem que existe o Pandas, o Numpy e muitas outras bibliotecas para isso.</dd>
 </dl>
 
