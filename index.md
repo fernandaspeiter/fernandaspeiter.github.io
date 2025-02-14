@@ -33,7 +33,11 @@ Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da 
 
 # Projetos
 
-*Avançado - Para quem já entende do asunto:
+*Intermediário - Para quem entende do assunto:
+
+[![Github](assets/images/logo_comunidade_medica.png)](https://fernandaspeiter.github.io/comunidade_medica/)
+
+*Avançado - Para quem é expert:
 
 [![GitHub](assets/images/logo_caatinga_proj.png)](https://fernandaspeiter.github.io/q95_caatinga_saofrancisco/)
 
