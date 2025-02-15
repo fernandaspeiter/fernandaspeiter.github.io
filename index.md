@@ -3,9 +3,9 @@ layout: default
 ---
 
 # Olá, eu sou a Fernanda
-Sou uma **cientista de dados** vivendo em Maceió, Alagoas, Brasil. 
-Além disso, sou _engenheira ambiental_, o que me deu bastante bastante experiência em projetos com dados na área de qualidade do ar, de energias renováveis e de produção mais limpa (P+L).
-Movida pela curiosidade, gosto de explorar como a ciência e a análise de dados podem ajudar a resolver desafios em diferentes áreas.
+Sou uma **cientista de dados** vivendo em Maceió, Alagoas, Brasil.  
+Além disso, sou _engenheira ambiental_, o que me deu experiência em projetos com dados na área de qualidade do ar, de energias renováveis e de produção mais limpa (P+L).
+Mais recentemente tenho me dedicado à ciência e a análise de dados visando ajudar a resolver desafios em diferentes áreas.
 Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da minha jornada de aprendizado.
 
 
@@ -33,11 +33,19 @@ Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da 
 
 # Projetos
 
-*Intermediário - Para quem entende do assunto:
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://fernandaspeiter.github.io/comunidade_medica/">
+    <img src="assets/images/logo_comunidade_medica.png" alt="Comunidade Médica" width="200">
+  </a>
+  <a href="https://fernandaspeiter.github.io/q95_caatinga_saofrancisco/">
+    <img src="assets/images/logo_caatinga_proj.png" alt="Caatinga" width="200">
+  </a>
+</div>
+
+
+# Projetos
 
 [![Github](assets/images/logo_comunidade_medica.png)](https://fernandaspeiter.github.io/comunidade_medica/)
-
-*Avançado - Para quem é expert:
 
 [![GitHub](assets/images/logo_caatinga_proj.png)](https://fernandaspeiter.github.io/q95_caatinga_saofrancisco/)
 
