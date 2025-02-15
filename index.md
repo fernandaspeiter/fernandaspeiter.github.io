@@ -43,9 +43,10 @@ Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da 
 </div>
 
 
-# Projetos
+# Publicações recentes envolvendo análise de dados e estatística
 
-[![Github](assets/images/logo_comunidade_medica.png)](https://fernandaspeiter.github.io/comunidade_medica/)
-
-[![GitHub](assets/images/logo_caatinga_proj.png)](https://fernandaspeiter.github.io/q95_caatinga_saofrancisco/)
+- [Influence of Ensiling Time and Elephant Grass Silage Alkaline Pretreatment in Anaerobic Co‑digestion with Vinasse for Methane Production](https://link.springer.com/article/10.1007/s12155-024-10746-3)
+- [Methane production from anaerobic co‑digestion of vinasse and molasses: effects of substrate proportion, COD and alkalizing agent](https://link.springer.com/article/10.1007/s13762-024-05676-8)
+- [Biomethane production using goat manure and cheese whey: statistical analysis of the effect of mixture composition](https://link.springer.com/article/10.1007/s43153-024-00442-2)
+  
 
