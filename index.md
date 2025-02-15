@@ -31,6 +31,7 @@ Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da 
 > * Graduação em Engenharia Ambiental e Sanitária (UFAL - 2012)
 
 
+  
 # Projetos
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -42,7 +43,7 @@ Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da 
   </a>
 </div>
 
-
+  
 # Publicações recentes envolvendo análise de dados e estatística
 
 - [Influence of Ensiling Time and Elephant Grass Silage Alkaline Pretreatment in Anaerobic Co‑digestion with Vinasse for Methane Production](https://link.springer.com/article/10.1007/s12155-024-10746-3)
