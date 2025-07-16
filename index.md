@@ -25,6 +25,7 @@ Aqui, você encontra alguns dos meus projetos e materiais de estudo ao longo da 
 
 
 ## Aprendizado contínuo: 
+> * Graduação em Análise e Desenvolvimento de Sistemas (Estácio - cursando)  
 > * MBA em Data Science and Analytics (USP/ESALQ - 2024)  
 > * MSc e PhD em Engenharia Hidráulica e Saneamento (USP/EESC - 2018)  
 > * Doutorado Sanduíche no _Department of Engineering Science_ (Universidade de Oxford/UK - 2017)  
